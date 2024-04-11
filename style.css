@@ -2,3 +2,7 @@
     text-align:center;
     font-family: 'Courier New';
 }
+.imagem{
+    display: block;
+    margin: auto;
+}
