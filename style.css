@@ -6,3 +6,7 @@
     display: block;
     margin: auto;
 }
+.subtitulo{
+    text-align: center;
+    font-family: 'Courier New';
+}
