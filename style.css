@@ -30,5 +30,5 @@ body,html{
     background:linear-gradient(190deg,#aaaade,#2d93e6,#19025e,#00ffa6,#00a169c1) ;
 }
 nav ul{
-    text: color #ff00ead8; ;
+    color: rgb(255, 0, 179);
 }
