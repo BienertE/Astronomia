@@ -19,9 +19,6 @@
 .resumo{
     font-style: italic;
 }
-.resumo p{
-    color: #6600ff;
-}
 .sobreastro{
     display: block;
     margin: auto;
@@ -52,4 +49,7 @@ ul{
 .texto{
     color:#35fda0 ;
     font-size:25px ;
+}
+.colorresumo{
+    color: #5c20c3;
 }
