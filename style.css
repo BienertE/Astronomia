@@ -26,3 +26,6 @@
     width: 720px;
     padding: 150px;
 }
+body,html{
+    background:linear-gradient(190deg,#191970,#4169e1,#4682b4) ;
+}
