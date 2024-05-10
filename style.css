@@ -12,6 +12,10 @@
     font-family: 'Courier New';
     color:#9de0ff;
 }
+.subtitulo p{
+    font-size:25px ;
+    color: #35fda0;
+}
 .resumo{
     font-style: italic;
 }
@@ -31,7 +35,7 @@ body,html{
     background:linear-gradient(190deg,#aaaade,#2d93e6,#19025e,#00ffa6,#00a169c1) ;
 }
 ul{
-    color: rgba(4, 0, 255, 0.457);
+    color: #35fda0;
     font-size: 25px;
 }
 .sobreastronomia p{
