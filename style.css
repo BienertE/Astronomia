@@ -38,3 +38,6 @@ ul{
     font-size:25px  ;
     padding: 30px;
 }
+.cabecalho-lista a{
+    color: blueviolet;
+}
