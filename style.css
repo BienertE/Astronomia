@@ -30,8 +30,5 @@ body,html{
     background:linear-gradient(190deg,#aaaade,#2d93e6,#19025e,#00ffa6,#00a169c1) ;
 }
 ul{
-    color: rgb(255, 0, 0);
-}
-.colorresumo ul{
-   text: colorrgb(185, 74, 255)4; ;
+    color: rgb(255, 234, 0);
 }
