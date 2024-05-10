@@ -31,8 +31,9 @@ body,html{
 }
 ul{
     color: rgba(4, 0, 255, 0.457);
-    font-size: 20px;
+    font-size: 25px;
 }
 .sobreastronomia p{
     color: #00ffb7;
+    font-size:25px  ;
 }
